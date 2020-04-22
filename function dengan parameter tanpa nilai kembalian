@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+void perkalian ( int e , int d) {
+	cout << (e * d) ;
+}
+
+int main () {
+	perkalian (21, 3);
+}
